@@ -1,4 +1,4 @@
-def gitUrl = 'git://github.com/jenkinsci/job-dsl-plugin.git'
+def gitUrl = 'https://github.com/malles11/Wave2018.git'
 
 job('PROJ-nmsh-tests') {
     scm {
